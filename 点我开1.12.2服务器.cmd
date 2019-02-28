@@ -1,0 +1,1 @@
+java -Xmx1G -jar "spigot-1.12.2-R0.1-SNAPSHOT-b1409.jar"
